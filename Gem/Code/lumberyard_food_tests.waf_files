@@ -1,0 +1,7 @@
+{
+    "auto": {
+        "Tests": [
+            "Tests/Lumberyard_FoodTest.cpp"
+        ]
+    }
+}

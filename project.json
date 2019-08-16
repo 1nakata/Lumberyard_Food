@@ -1,0 +1,21 @@
+{
+    "project_name": "Lumberyard_Food",
+    "product_name": "Lumberyard_Food",
+    "executable_name": "Lumberyard_FoodLauncher",
+    "modules" : [],
+    "project_id": "{144C27D0-439D-4D62-ACCE-991322E5D59B}",
+
+    "android_settings" : {
+        "package_name" : "com.lumberyard.yourgame",
+        "version_number" : 1,
+        "version_name" : "1.0.0.0",
+        "orientation" : "landscape"
+    },
+
+    "durango_settings" : {
+    },
+
+    "orbis_settings": {
+    }
+
+}

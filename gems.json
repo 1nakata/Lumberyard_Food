@@ -38,6 +38,12 @@
             "_comment": "ScriptCanvasPhysics"
         },
         {
+            "Path": "Gems/AssetCollection_Woodland",
+            "Uuid": "225b596a091b4a9d81634a73c31aa6c6",
+            "Version": "1.0.0",
+            "_comment": "AssetCollection_Woodland"
+        },
+        {
             "Path": "Gems/LegacyGameInterface",
             "Uuid": "3108b261962e44b6a0c1c036c693bca2",
             "Version": "1.0.0",

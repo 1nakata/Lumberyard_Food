@@ -1,5 +1,7 @@
 # Lumberyard Food Hall
 
+Current version of Lumberyard tested 1.21
+
 This project is a Small Visualization of a space to be made in Lumberyard.
 
 Project will have the original 3D Model files

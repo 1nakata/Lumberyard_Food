@@ -1,0 +1,3 @@
+[General]
+version=1
+startScript="ImportActor -filename \"@assets@/animations/maya_gameexp/motusman_i_w_bakeanim.actor\"\nCreateActorInstance -actorID %LASTRESULT% -xPos 0.000000 -yPos 0.000000 -zPos 0.000000 -xScale 1.000000 -yScale 1.000000 -zScale 1.000000 -rot -0.70779872,0.01898688,0.01918616,0.70589840\nImportMotion -filename \"@assets@/animations/maya_gameexp/motusman_i_w_bakeanim.motion\"\nLoadAnimGraph -filename \"@assets@/animations/motusman2.animgraph\"\n"

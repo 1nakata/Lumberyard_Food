@@ -11,7 +11,7 @@ namespace Lumberyard_Food
         , protected Lumberyard_FoodRequestBus::Handler
     {
     public:
-        AZ_COMPONENT(Lumberyard_FoodSystemComponent, "{C6A1F521-065A-4C30-9CF9-64C949A96F4F}");
+        AZ_COMPONENT(Lumberyard_FoodSystemComponent, "{09604353-91D7-4E2A-96CE-4669D5DFB87E}");
 
         static void Reflect(AZ::ReflectContext* context);
 

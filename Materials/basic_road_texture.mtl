@@ -1,0 +1,12 @@
+<Material MtlFlags="524290" DccMaterialHash="0" Shader="Illum" GenMask="200A00000000002" StringGenMask="%ALLOW_SPECULAR_ANTIALIASING%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_default" Diffuse="0.80695242,0.80695242,0.80695242,1" Specular="0.14995982,0.12743771,0.06124606,1" Opacity="1" Shininess="57.270004" vertModifType="0" LayerAct="1">
+ <Textures>
+  <Texture Map="Bumpmap" File="materials/road/tileable_cracked_asphalt_road_texture_normal.dds"/>
+  <Texture Map="Detail" File="materials/road/tileable_cracked_asphalt_road_texture_normal.dds"/>
+  <Texture Map="Heightmap" File="materials/road/tileable_cracked_asphalt_road_texture_normal.dds"/>
+  <Texture Map="Specular" File="materials/road/tileable_cracked_asphalt_road_texture_specular.dds"/>
+  <Texture Map="Diffuse" File="materials/road/tileable_cracked_asphalt_road_texture.dds">
+   <TexMod TexMod_RotateType="1" TexMod_TexGenType="0" TexMod_bTexGenProjected="0" TexMod_WRotateAmplitude="90"/>
+  </Texture>
+ </Textures>
+ <PublicParams EmittanceMapGamma="1" SSSIndex="0" IndirectColor="0.25,0.25,0.25"/>
+</Material>

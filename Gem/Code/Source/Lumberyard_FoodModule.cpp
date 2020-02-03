@@ -10,7 +10,7 @@ namespace Lumberyard_Food
         : public AZ::Module
     {
     public:
-        AZ_RTTI(Lumberyard_FoodModule, "{E62C9162-D156-4064-8AB4-03A42D2FC6B1}", AZ::Module);
+        AZ_RTTI(Lumberyard_FoodModule, "{B57699EA-B937-4523-954D-D466033543F9}", AZ::Module);
         AZ_CLASS_ALLOCATOR(Lumberyard_FoodModule, AZ::SystemAllocator, 0);
 
         Lumberyard_FoodModule()
@@ -37,4 +37,4 @@ namespace Lumberyard_Food
 // DO NOT MODIFY THIS LINE UNLESS YOU RENAME THE GEM
 // The first parameter should be GemName_GemIdLower
 // The second should be the fully qualified name of the class above
-AZ_DECLARE_MODULE_CLASS(Lumberyard_Food_6a1a547ff09243a98bb6899f6776635e, Lumberyard_Food::Lumberyard_FoodModule)
+AZ_DECLARE_MODULE_CLASS(Lumberyard_Food_ff2280ccd5b24c5988d6d300cd09ccd3, Lumberyard_Food::Lumberyard_FoodModule)

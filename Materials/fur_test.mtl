@@ -1,0 +1,6 @@
+<Material MtlFlags="557056" DccMaterialHash="0" Shader="Fur" GenMask="2000000000000300" StringGenMask="%CUSTOM_MODIFICATOR%DEPTH_FIXUP%ZPASS_CUSTOM_DIFFUSE" SurfaceType="mat_default" Diffuse="0.099898733,0.018500222,0.097587354,1" Specular="0.045000002,0.045000002,0.045000002,1" Opacity="1" Shininess="10" vertModifType="0" LayerAct="1">
+ <Textures>
+  <Texture Map="Custom" File="textures/shader-ref-fur-2.dds"/>
+ </Textures>
+ <PublicParams FurFinAlphaTest="0.5" FurStiffness="1" SSSFalloff="1" FurLengthCM="10" FurMaxGravity="2" DepthFixupThreshold="0.050000001" SSSStrength="1" IndirectColor="0.25,0.25,0.25"/>
+</Material>

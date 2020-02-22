@@ -77,6 +77,9 @@
 				<Class name="AZStd::string" field="dynamicLibraryPath" value="Gem.Gestures.6056556b6088413984309c4a413593ad.v1.0.0" type="{189CC2ED-FDDE-5680-91D4-9F630A79187F}"/>
 			</Class>
 			<Class name="DynamicModuleDescriptor" field="element" type="{D2932FA3-9942-4FD2-A703-2E750F57C003}">
+				<Class name="AZStd::string" field="dynamicLibraryPath" value="Gem.DebugDraw.Editor.66239f50bf754354b514c850c8b841fb.v0.1.0" type="{189CC2ED-FDDE-5680-91D4-9F630A79187F}"/>
+			</Class>
+			<Class name="DynamicModuleDescriptor" field="element" type="{D2932FA3-9942-4FD2-A703-2E750F57C003}">
 				<Class name="AZStd::string" field="dynamicLibraryPath" value="Gem.ProcessLifeManagement.698948526ada4d13bada933e2d7ee463.v0.1.0" type="{189CC2ED-FDDE-5680-91D4-9F630A79187F}"/>
 			</Class>
 			<Class name="DynamicModuleDescriptor" field="element" type="{D2932FA3-9942-4FD2-A703-2E750F57C003}">
@@ -146,10 +149,16 @@
 				<Class name="AZStd::string" field="dynamicLibraryPath" value="Gem.LyShineExamples.c7935ecf5e8047fe8ca947b34b11cadb.v0.1.0" type="{189CC2ED-FDDE-5680-91D4-9F630A79187F}"/>
 			</Class>
 			<Class name="DynamicModuleDescriptor" field="element" type="{D2932FA3-9942-4FD2-A703-2E750F57C003}">
+				<Class name="AZStd::string" field="dynamicLibraryPath" value="Gem.ScriptCanvasDiagnosticLibrary.d969b997bb7f4342ba0b3eedc378025d.v0.1.0" type="{189CC2ED-FDDE-5680-91D4-9F630A79187F}"/>
+			</Class>
+			<Class name="DynamicModuleDescriptor" field="element" type="{D2932FA3-9942-4FD2-A703-2E750F57C003}">
 				<Class name="AZStd::string" field="dynamicLibraryPath" value="Gem.StartingPointInput.Editor.09f4bedeee614358bc36788e77f97e51.v0.1.0" type="{189CC2ED-FDDE-5680-91D4-9F630A79187F}"/>
 			</Class>
 			<Class name="DynamicModuleDescriptor" field="element" type="{D2932FA3-9942-4FD2-A703-2E750F57C003}">
 				<Class name="AZStd::string" field="dynamicLibraryPath" value="Gem.ScriptCanvasPhysics.1c27519a4dda4ffaaeebf91514e5b1e8.v0.1.0" type="{189CC2ED-FDDE-5680-91D4-9F630A79187F}"/>
+			</Class>
+			<Class name="DynamicModuleDescriptor" field="element" type="{D2932FA3-9942-4FD2-A703-2E750F57C003}">
+				<Class name="AZStd::string" field="dynamicLibraryPath" value="Gem.PhysXDebug.Editor.516145e2d9904b13813f1b54605e26a6.v0.1.0" type="{189CC2ED-FDDE-5680-91D4-9F630A79187F}"/>
 			</Class>
 		</Class>
 	</Class>

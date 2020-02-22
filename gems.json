@@ -110,6 +110,12 @@
             "_comment": "PhysXCharacters"
         },
         {
+            "Path": "Gems/PhysXDebug",
+            "Uuid": "516145e2d9904b13813f1b54605e26a6",
+            "Version": "0.1.0",
+            "_comment": "PhysXDebug"
+        },
+        {
             "Path": "Gems/CameraFramework",
             "Uuid": "54f2763fe191432fa681ce4a354eedf5",
             "Version": "0.1.0",
@@ -144,6 +150,12 @@
             "Uuid": "6056556b6088413984309c4a413593ad",
             "Version": "1.0.0",
             "_comment": "Gestures"
+        },
+        {
+            "Path": "Gems/DebugDraw",
+            "Uuid": "66239f50bf754354b514c850c8b841fb",
+            "Version": "0.1.0",
+            "_comment": "DebugDraw"
         },
         {
             "Path": "Gems/ProcessLifeManagement",
@@ -246,6 +258,12 @@
             "Uuid": "d378b5a7b47747d0a7aa741945df58f3",
             "Version": "1.0.0",
             "_comment": "GameEffectSystem"
+        },
+        {
+            "Path": "Gems/ScriptCanvasDiagnosticLibrary",
+            "Uuid": "d969b997bb7f4342ba0b3eedc378025d",
+            "Version": "0.1.0",
+            "_comment": "ScriptCanvasDiagnosticLibrary"
         },
         {
             "Path": "Gems/Rain",

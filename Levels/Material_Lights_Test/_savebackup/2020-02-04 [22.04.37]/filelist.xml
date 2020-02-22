@@ -1,0 +1,6 @@
+<download name="Material_Lights_Test" type="Map">
+ <index src="filelist.xml" dest="filelist.xml"/>
+ <files>
+  <file src="level.pak" dest="level.pak" size="39199" md5="c683126871c52fad076c5b24eeba473a"/>
+ </files>
+</download>

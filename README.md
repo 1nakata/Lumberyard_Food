@@ -14,10 +14,12 @@ It will be here in this directory
 
 Amazon/Lumberyard/1.23.0.0/dev/**Lumberyard_Food**
 
-Set it as default in the project configurator and run 
+Set it as default in the project configurator and run in a new command window / cmder.exe
 
-'Lmbr_Waf configure' and 
+`Lmbr_Waf configure` 
 
-'lmbr_waf build_win_x64_vs2017_profile -p game'
+and 
+
+`lmbr_waf build_win_x64_vs2017_profile -p game`
 
 Open the Editor to see the Project.

@@ -1,6 +1,0 @@
-<download name="FPS_Man" type="Map">
- <index src="filelist.xml" dest="filelist.xml"/>
- <files>
-  <file src="level.pak" dest="level.pak" size="45153" md5="dc4a4d2b0a50b81e4e9c3fdb5c101bb2"/>
- </files>
-</download>

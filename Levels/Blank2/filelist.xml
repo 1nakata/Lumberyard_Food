@@ -1,6 +1,0 @@
-<download name="Blank2" type="Map">
- <index src="filelist.xml" dest="filelist.xml"/>
- <files>
-  <file src="level.pak" dest="level.pak" size="39618" md5="1d3b219f6670ab17df8f2785d6c73bf6"/>
- </files>
-</download>

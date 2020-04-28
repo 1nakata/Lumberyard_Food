@@ -1,9 +1,0 @@
-{
-    "description": "Configuration for Lumberyard_Food",
-    "visual_studio_name": "Lumberyard_Food",
-    "comment" : "",
-    "game_projects" : "Lumberyard_Food",
-
-    "modules" : [
-    ]
-}
